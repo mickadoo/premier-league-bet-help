@@ -1,0 +1,380 @@
+13/08/05,Aston Villa,Bolton,D
+13/08/05,Everton,Man United,A
+13/08/05,Fulham,Birmingham,D
+13/08/05,Man City,West Brom,D
+13/08/05,Middlesbrough,Liverpool,D
+13/08/05,Portsmouth,Tottenham,A
+13/08/05,Sunderland,Charlton,A
+13/08/05,West Ham,Blackburn,H
+14/08/05,Arsenal,Newcastle,H
+14/08/05,Wigan,Chelsea,A
+20/08/05,Birmingham,Man City,A
+20/08/05,Blackburn,Fulham,H
+20/08/05,Charlton,Wigan,H
+20/08/05,Liverpool,Sunderland,H
+20/08/05,Man United,Aston Villa,H
+20/08/05,Newcastle,West Ham,D
+20/08/05,Tottenham,Middlesbrough,H
+20/08/05,West Brom,Portsmouth,H
+21/08/05,Bolton,Everton,A
+21/08/05,Chelsea,Arsenal,H
+23/08/05,Birmingham,Middlesbrough,A
+23/08/05,Portsmouth,Aston Villa,D
+23/08/05,Sunderland,Man City,A
+24/08/05,Arsenal,Fulham,H
+24/08/05,Blackburn,Tottenham,D
+24/08/05,Bolton,Newcastle,H
+24/08/05,Chelsea,West Brom,H
+27/08/05,Aston Villa,Blackburn,H
+27/08/05,Fulham,Everton,H
+27/08/05,Man City,Portsmouth,H
+27/08/05,Tottenham,Chelsea,A
+27/08/05,West Brom,Birmingham,A
+27/08/05,West Ham,Bolton,A
+27/08/05,Wigan,Sunderland,H
+28/08/05,Middlesbrough,Charlton,A
+28/08/05,Newcastle,Man United,A
+10/09/05,Birmingham,Charlton,A
+10/09/05,Chelsea,Sunderland,H
+10/09/05,Everton,Portsmouth,A
+10/09/05,Man United,Man City,D
+10/09/05,Middlesbrough,Arsenal,H
+10/09/05,Newcastle,Fulham,D
+10/09/05,Tottenham,Liverpool,D
+10/09/05,West Brom,Wigan,A
+11/09/05,Bolton,Blackburn,D
+12/09/05,West Ham,Aston Villa,H
+17/09/05,Aston Villa,Tottenham,D
+17/09/05,Charlton,Chelsea,A
+17/09/05,Fulham,West Ham,A
+17/09/05,Portsmouth,Birmingham,D
+17/09/05,Sunderland,West Brom,D
+18/09/05,Blackburn,Newcastle,A
+18/09/05,Liverpool,Man United,D
+18/09/05,Man City,Bolton,A
+18/09/05,Wigan,Middlesbrough,D
+19/09/05,Arsenal,Everton,H
+24/09/05,Birmingham,Liverpool,D
+24/09/05,Bolton,Portsmouth,H
+24/09/05,Chelsea,Aston Villa,H
+24/09/05,Everton,Wigan,A
+24/09/05,Man United,Blackburn,A
+24/09/05,Newcastle,Man City,H
+24/09/05,West Brom,Charlton,A
+24/09/05,West Ham,Arsenal,D
+25/09/05,Middlesbrough,Sunderland,A
+26/09/05,Tottenham,Fulham,H
+01/10/05,Blackburn,West Brom,H
+01/10/05,Charlton,Tottenham,A
+01/10/05,Fulham,Man United,A
+01/10/05,Portsmouth,Newcastle,D
+01/10/05,Sunderland,West Ham,D
+02/10/05,Arsenal,Birmingham,H
+02/10/05,Aston Villa,Middlesbrough,A
+02/10/05,Liverpool,Chelsea,A
+02/10/05,Man City,Everton,H
+02/10/05,Wigan,Bolton,H
+15/10/05,Chelsea,Bolton,H
+15/10/05,Liverpool,Blackburn,H
+15/10/05,Middlesbrough,Portsmouth,D
+15/10/05,Sunderland,Man United,A
+15/10/05,Tottenham,Everton,H
+15/10/05,West Brom,Arsenal,H
+15/10/05,Wigan,Newcastle,H
+16/10/05,Birmingham,Aston Villa,A
+16/10/05,Man City,West Ham,H
+17/10/05,Charlton,Fulham,D
+22/10/05,Arsenal,Man City,H
+22/10/05,Aston Villa,Wigan,A
+22/10/05,Blackburn,Birmingham,H
+22/10/05,Fulham,Liverpool,H
+22/10/05,Man United,Tottenham,D
+22/10/05,Portsmouth,Charlton,A
+23/10/05,Bolton,West Brom,H
+23/10/05,Everton,Chelsea,D
+23/10/05,Newcastle,Sunderland,H
+23/10/05,West Ham,Middlesbrough,H
+29/10/05,Birmingham,Everton,A
+29/10/05,Charlton,Bolton,A
+29/10/05,Chelsea,Blackburn,H
+29/10/05,Liverpool,West Ham,H
+29/10/05,Middlesbrough,Man United,H
+29/10/05,Sunderland,Portsmouth,A
+29/10/05,Tottenham,Arsenal,D
+29/10/05,Wigan,Fulham,H
+30/10/05,West Brom,Newcastle,A
+31/10/05,Man City,Aston Villa,H
+05/11/05,Arsenal,Sunderland,H
+05/11/05,Aston Villa,Liverpool,A
+05/11/05,Blackburn,Charlton,H
+05/11/05,Fulham,Man City,H
+05/11/05,Newcastle,Birmingham,H
+05/11/05,Portsmouth,Wigan,A
+05/11/05,West Ham,West Brom,H
+06/11/05,Everton,Middlesbrough,H
+06/11/05,Man United,Chelsea,H
+07/11/05,Bolton,Tottenham,H
+19/11/05,Charlton,Man United,A
+19/11/05,Chelsea,Newcastle,H
+19/11/05,Liverpool,Portsmouth,H
+19/11/05,Man City,Blackburn,D
+19/11/05,Sunderland,Aston Villa,A
+19/11/05,West Brom,Everton,H
+19/11/05,Wigan,Arsenal,A
+20/11/05,Middlesbrough,Fulham,H
+20/11/05,Tottenham,West Ham,D
+26/11/05,Arsenal,Blackburn,H
+26/11/05,Aston Villa,Charlton,H
+26/11/05,Man City,Liverpool,A
+26/11/05,Portsmouth,Chelsea,A
+26/11/05,Sunderland,Birmingham,A
+26/11/05,Wigan,Tottenham,A
+27/11/05,Everton,Newcastle,H
+27/11/05,Fulham,Bolton,H
+27/11/05,Middlesbrough,West Brom,D
+27/11/05,West Ham,Man United,A
+30/11/05,Sunderland,Liverpool,A
+03/12/05,Blackburn,Everton,A
+03/12/05,Bolton,Arsenal,H
+03/12/05,Chelsea,Middlesbrough,H
+03/12/05,Liverpool,Wigan,H
+03/12/05,Man United,Portsmouth,H
+03/12/05,Newcastle,Aston Villa,D
+03/12/05,Tottenham,Sunderland,H
+03/12/05,West Brom,Fulham,D
+04/12/05,Charlton,Man City,A
+05/12/05,Birmingham,West Ham,A
+10/12/05,Birmingham,Fulham,H
+10/12/05,Blackburn,West Ham,H
+10/12/05,Bolton,Aston Villa,D
+10/12/05,Charlton,Sunderland,H
+10/12/05,Chelsea,Wigan,H
+10/12/05,Liverpool,Middlesbrough,H
+10/12/05,Newcastle,Arsenal,H
+10/12/05,West Brom,Man City,H
+11/12/05,Man United,Everton,D
+12/12/05,Tottenham,Portsmouth,H
+14/12/05,Everton,West Ham,A
+14/12/05,Man United,Wigan,H
+17/12/05,Aston Villa,Man United,A
+17/12/05,Everton,Bolton,A
+17/12/05,Fulham,Blackburn,H
+17/12/05,Man City,Birmingham,H
+17/12/05,Portsmouth,West Brom,H
+17/12/05,West Ham,Newcastle,A
+17/12/05,Wigan,Charlton,H
+18/12/05,Arsenal,Chelsea,A
+18/12/05,Middlesbrough,Tottenham,D
+26/12/05,Aston Villa,Everton,H
+26/12/05,Charlton,Arsenal,A
+26/12/05,Chelsea,Fulham,H
+26/12/05,Liverpool,Newcastle,H
+26/12/05,Man United,West Brom,H
+26/12/05,Middlesbrough,Blackburn,A
+26/12/05,Portsmouth,West Ham,D
+26/12/05,Sunderland,Bolton,D
+26/12/05,Tottenham,Birmingham,H
+26/12/05,Wigan,Man City,H
+28/12/05,Arsenal,Portsmouth,H
+28/12/05,Birmingham,Man United,D
+28/12/05,Everton,Liverpool,A
+28/12/05,Fulham,Aston Villa,D
+28/12/05,Man City,Chelsea,A
+28/12/05,West Brom,Tottenham,H
+28/12/05,West Ham,Wigan,A
+31/12/05,Aston Villa,Arsenal,D
+31/12/05,Charlton,West Ham,H
+31/12/05,Chelsea,Birmingham,H
+31/12/05,Liverpool,West Brom,H
+31/12/05,Man United,Bolton,H
+31/12/05,Middlesbrough,Man City,D
+31/12/05,Portsmouth,Fulham,H
+31/12/05,Sunderland,Everton,A
+31/12/05,Tottenham,Newcastle,H
+31/12/05,Wigan,Blackburn,A
+02/01/06,Birmingham,Wigan,H
+02/01/06,Blackburn,Portsmouth,H
+02/01/06,Bolton,Liverpool,D
+02/01/06,Everton,Charlton,H
+02/01/06,Fulham,Sunderland,H
+02/01/06,Newcastle,Middlesbrough,D
+02/01/06,West Brom,Aston Villa,A
+02/01/06,West Ham,Chelsea,A
+03/01/06,Arsenal,Man United,D
+04/01/06,Man City,Tottenham,A
+14/01/06,Arsenal,Middlesbrough,H
+14/01/06,Aston Villa,West Ham,A
+14/01/06,Blackburn,Bolton,D
+14/01/06,Charlton,Birmingham,H
+14/01/06,Fulham,Newcastle,H
+14/01/06,Liverpool,Tottenham,H
+14/01/06,Man City,Man United,H
+14/01/06,Portsmouth,Everton,A
+15/01/06,Sunderland,Chelsea,A
+15/01/06,Wigan,West Brom,A
+21/01/06,Birmingham,Portsmouth,H
+21/01/06,Bolton,Man City,H
+21/01/06,Everton,Arsenal,H
+21/01/06,Middlesbrough,Wigan,A
+21/01/06,Newcastle,Blackburn,A
+21/01/06,Tottenham,Aston Villa,D
+21/01/06,West Brom,Sunderland,A
+22/01/06,Chelsea,Charlton,D
+22/01/06,Man United,Liverpool,H
+23/01/06,West Ham,Fulham,H
+31/01/06,Charlton,West Brom,D
+31/01/06,Fulham,Tottenham,H
+31/01/06,Sunderland,Middlesbrough,A
+31/01/06,Wigan,Everton,D
+01/02/06,Arsenal,West Ham,A
+01/02/06,Aston Villa,Chelsea,D
+01/02/06,Blackburn,Man United,H
+01/02/06,Liverpool,Birmingham,D
+01/02/06,Man City,Newcastle,H
+01/02/06,Portsmouth,Bolton,D
+04/02/06,Birmingham,Arsenal,A
+04/02/06,Bolton,Wigan,D
+04/02/06,Everton,Man City,H
+04/02/06,Man United,Fulham,H
+04/02/06,Middlesbrough,Aston Villa,A
+04/02/06,Newcastle,Portsmouth,H
+04/02/06,West Brom,Blackburn,H
+04/02/06,West Ham,Sunderland,H
+05/02/06,Chelsea,Liverpool,H
+05/02/06,Tottenham,Charlton,H
+08/02/06,Charlton,Liverpool,H
+11/02/06,Arsenal,Bolton,D
+11/02/06,Aston Villa,Newcastle,A
+11/02/06,Everton,Blackburn,H
+11/02/06,Fulham,West Brom,H
+11/02/06,Middlesbrough,Chelsea,H
+11/02/06,Portsmouth,Man United,A
+11/02/06,Wigan,Liverpool,A
+12/02/06,Man City,Charlton,H
+12/02/06,Sunderland,Tottenham,D
+13/02/06,West Ham,Birmingham,H
+14/02/06,Liverpool,Arsenal,H
+15/02/06,Blackburn,Sunderland,H
+19/02/06,Tottenham,Wigan,D
+22/02/06,Newcastle,Charlton,D
+25/02/06,Birmingham,Sunderland,H
+25/02/06,Blackburn,Arsenal,H
+25/02/06,Charlton,Aston Villa,D
+25/02/06,Chelsea,Portsmouth,H
+25/02/06,Newcastle,Everton,H
+26/02/06,Bolton,Fulham,H
+26/02/06,Liverpool,Man City,H
+26/02/06,West Brom,Middlesbrough,A
+04/03/06,Aston Villa,Portsmouth,H
+04/03/06,Fulham,Arsenal,A
+04/03/06,Liverpool,Charlton,D
+04/03/06,Middlesbrough,Birmingham,H
+04/03/06,Newcastle,Bolton,H
+04/03/06,West Brom,Chelsea,A
+04/03/06,West Ham,Everton,D
+05/03/06,Man City,Sunderland,H
+05/03/06,Tottenham,Blackburn,H
+06/03/06,Wigan,Man United,A
+11/03/06,Birmingham,West Brom,D
+11/03/06,Blackburn,Aston Villa,H
+11/03/06,Bolton,West Ham,H
+11/03/06,Chelsea,Tottenham,H
+11/03/06,Everton,Fulham,H
+11/03/06,Portsmouth,Man City,H
+11/03/06,Sunderland,Wigan,A
+12/03/06,Arsenal,Liverpool,H
+12/03/06,Charlton,Middlesbrough,H
+12/03/06,Man United,Newcastle,H
+15/03/06,Liverpool,Fulham,H
+18/03/06,Arsenal,Charlton,H
+18/03/06,Birmingham,Tottenham,A
+18/03/06,Blackburn,Middlesbrough,H
+18/03/06,Bolton,Sunderland,H
+18/03/06,Everton,Aston Villa,H
+18/03/06,Man City,Wigan,A
+18/03/06,West Brom,Man United,A
+18/03/06,West Ham,Portsmouth,A
+19/03/06,Fulham,Chelsea,H
+19/03/06,Newcastle,Liverpool,A
+25/03/06,Aston Villa,Fulham,D
+25/03/06,Chelsea,Man City,H
+25/03/06,Liverpool,Everton,H
+25/03/06,Sunderland,Blackburn,A
+25/03/06,Wigan,West Ham,A
+26/03/06,Charlton,Newcastle,H
+26/03/06,Man United,Birmingham,H
+26/03/06,Middlesbrough,Bolton,H
+27/03/06,Tottenham,West Brom,H
+29/03/06,Man United,West Ham,H
+01/04/06,Arsenal,Aston Villa,H
+01/04/06,Birmingham,Chelsea,D
+01/04/06,Bolton,Man United,A
+01/04/06,Everton,Sunderland,D
+01/04/06,Fulham,Portsmouth,A
+01/04/06,Newcastle,Tottenham,H
+01/04/06,West Brom,Liverpool,A
+02/04/06,Man City,Middlesbrough,A
+02/04/06,West Ham,Charlton,D
+03/04/06,Blackburn,Wigan,D
+04/04/06,Birmingham,Bolton,H
+08/04/06,Charlton,Everton,D
+08/04/06,Portsmouth,Blackburn,D
+08/04/06,Tottenham,Man City,H
+08/04/06,Wigan,Birmingham,D
+09/04/06,Aston Villa,West Brom,D
+09/04/06,Chelsea,West Ham,H
+09/04/06,Liverpool,Bolton,H
+09/04/06,Man United,Arsenal,H
+09/04/06,Middlesbrough,Newcastle,A
+12/04/06,Portsmouth,Arsenal,D
+14/04/06,Man United,Sunderland,D
+15/04/06,Arsenal,West Brom,H
+15/04/06,Bolton,Chelsea,A
+15/04/06,Everton,Tottenham,A
+15/04/06,Fulham,Charlton,H
+15/04/06,Newcastle,Wigan,H
+15/04/06,Portsmouth,Middlesbrough,H
+15/04/06,West Ham,Man City,H
+16/04/06,Aston Villa,Birmingham,H
+16/04/06,Blackburn,Liverpool,A
+17/04/06,Charlton,Portsmouth,H
+17/04/06,Chelsea,Everton,H
+17/04/06,Middlesbrough,West Ham,H
+17/04/06,Sunderland,Newcastle,A
+17/04/06,Tottenham,Man United,A
+17/04/06,West Brom,Bolton,D
+18/04/06,Wigan,Aston Villa,H
+19/04/06,Birmingham,Blackburn,H
+22/04/06,Arsenal,Tottenham,D
+22/04/06,Bolton,Charlton,H
+22/04/06,Everton,Birmingham,D
+22/04/06,Newcastle,West Brom,H
+22/04/06,Portsmouth,Sunderland,H
+24/04/06,Fulham,Wigan,H
+25/04/06,Aston Villa,Man City,A
+26/04/06,West Ham,Liverpool,A
+29/04/06,Birmingham,Newcastle,D
+29/04/06,Charlton,Blackburn,A
+29/04/06,Chelsea,Man United,H
+29/04/06,Liverpool,Aston Villa,H
+29/04/06,Man City,Fulham,A
+29/04/06,Middlesbrough,Everton,A
+29/04/06,Wigan,Portsmouth,A
+30/04/06,Tottenham,Bolton,H
+01/05/06,Man United,Middlesbrough,D
+01/05/06,Sunderland,Arsenal,A
+01/05/06,West Brom,West Ham,A
+02/05/06,Blackburn,Chelsea,H
+03/05/06,Bolton,Middlesbrough,D
+04/05/06,Man City,Arsenal,A
+04/05/06,Sunderland,Fulham,H
+07/05/06,Arsenal,Wigan,H
+07/05/06,Aston Villa,Sunderland,H
+07/05/06,Blackburn,Man City,H
+07/05/06,Bolton,Birmingham,H
+07/05/06,Everton,West Brom,D
+07/05/06,Fulham,Middlesbrough,H
+07/05/06,Man United,Charlton,H
+07/05/06,Newcastle,Chelsea,H
+07/05/06,Portsmouth,Liverpool,A
+07/05/06,West Ham,Tottenham,H

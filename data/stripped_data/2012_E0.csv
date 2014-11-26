@@ -1,0 +1,380 @@
+18/08/12,Arsenal,Sunderland,D
+18/08/12,Fulham,Norwich,H
+18/08/12,Newcastle,Tottenham,H
+18/08/12,QPR,Swansea,A
+18/08/12,Reading,Stoke,D
+18/08/12,West Brom,Liverpool,H
+18/08/12,West Ham,Aston Villa,H
+19/08/12,Man City,Southampton,H
+19/08/12,Wigan,Chelsea,A
+20/08/12,Everton,Man United,H
+22/08/12,Chelsea,Reading,H
+25/08/12,Aston Villa,Everton,A
+25/08/12,Chelsea,Newcastle,H
+25/08/12,Man United,Fulham,H
+25/08/12,Norwich,QPR,D
+25/08/12,Southampton,Wigan,A
+25/08/12,Swansea,West Ham,H
+25/08/12,Tottenham,West Brom,D
+26/08/12,Liverpool,Man City,D
+26/08/12,Stoke,Arsenal,D
+01/09/12,Man City,QPR,H
+01/09/12,Swansea,Sunderland,D
+01/09/12,Tottenham,Norwich,D
+01/09/12,West Brom,Everton,H
+01/09/12,West Ham,Fulham,H
+01/09/12,Wigan,Stoke,D
+02/09/12,Liverpool,Arsenal,A
+02/09/12,Newcastle,Aston Villa,D
+02/09/12,Southampton,Man United,A
+15/09/12,Arsenal,Southampton,H
+15/09/12,Aston Villa,Swansea,H
+15/09/12,Fulham,West Brom,H
+15/09/12,Man United,Wigan,H
+15/09/12,Norwich,West Ham,D
+15/09/12,QPR,Chelsea,D
+15/09/12,Stoke,Man City,D
+15/09/12,Sunderland,Liverpool,D
+16/09/12,Reading,Tottenham,A
+17/09/12,Everton,Newcastle,D
+22/09/12,Chelsea,Stoke,H
+22/09/12,Southampton,Aston Villa,H
+22/09/12,Swansea,Everton,A
+22/09/12,West Brom,Reading,H
+22/09/12,West Ham,Sunderland,D
+22/09/12,Wigan,Fulham,A
+23/09/12,Liverpool,Man United,A
+23/09/12,Man City,Arsenal,D
+23/09/12,Newcastle,Norwich,H
+23/09/12,Tottenham,QPR,H
+29/09/12,Arsenal,Chelsea,A
+29/09/12,Everton,Southampton,H
+29/09/12,Fulham,Man City,A
+29/09/12,Man United,Tottenham,A
+29/09/12,Norwich,Liverpool,A
+29/09/12,Reading,Newcastle,D
+29/09/12,Stoke,Swansea,H
+29/09/12,Sunderland,Wigan,H
+30/09/12,Aston Villa,West Brom,D
+01/10/12,QPR,West Ham,A
+06/10/12,Chelsea,Norwich,H
+06/10/12,Man City,Sunderland,H
+06/10/12,Swansea,Reading,D
+06/10/12,West Brom,QPR,H
+06/10/12,West Ham,Arsenal,A
+06/10/12,Wigan,Everton,D
+07/10/12,Liverpool,Stoke,D
+07/10/12,Newcastle,Man United,A
+07/10/12,Southampton,Fulham,D
+07/10/12,Tottenham,Aston Villa,H
+20/10/12,Fulham,Aston Villa,H
+20/10/12,Liverpool,Reading,H
+20/10/12,Man United,Stoke,H
+20/10/12,Norwich,Arsenal,H
+20/10/12,Swansea,Wigan,H
+20/10/12,Tottenham,Chelsea,A
+20/10/12,West Brom,Man City,A
+20/10/12,West Ham,Southampton,H
+21/10/12,QPR,Everton,D
+21/10/12,Sunderland,Newcastle,D
+27/10/12,Arsenal,QPR,H
+27/10/12,Aston Villa,Norwich,D
+27/10/12,Man City,Swansea,H
+27/10/12,Reading,Fulham,D
+27/10/12,Stoke,Sunderland,D
+27/10/12,Wigan,West Ham,H
+28/10/12,Chelsea,Man United,A
+28/10/12,Everton,Liverpool,D
+28/10/12,Newcastle,West Brom,H
+28/10/12,Southampton,Tottenham,A
+03/11/12,Fulham,Everton,D
+03/11/12,Man United,Arsenal,H
+03/11/12,Norwich,Stoke,H
+03/11/12,Sunderland,Aston Villa,A
+03/11/12,Swansea,Chelsea,D
+03/11/12,Tottenham,Wigan,A
+03/11/12,West Ham,Man City,D
+04/11/12,Liverpool,Newcastle,D
+04/11/12,QPR,Reading,D
+05/11/12,West Brom,Southampton,H
+10/11/12,Arsenal,Fulham,D
+10/11/12,Aston Villa,Man United,A
+10/11/12,Everton,Sunderland,H
+10/11/12,Reading,Norwich,D
+10/11/12,Southampton,Swansea,D
+10/11/12,Stoke,QPR,H
+10/11/12,Wigan,West Brom,A
+11/11/12,Chelsea,Liverpool,D
+11/11/12,Man City,Tottenham,H
+11/11/12,Newcastle,West Ham,A
+17/11/12,Arsenal,Tottenham,H
+17/11/12,Liverpool,Wigan,H
+17/11/12,Man City,Aston Villa,H
+17/11/12,Newcastle,Swansea,A
+17/11/12,Norwich,Man United,H
+17/11/12,QPR,Southampton,A
+17/11/12,Reading,Everton,H
+17/11/12,West Brom,Chelsea,H
+18/11/12,Fulham,Sunderland,A
+19/11/12,West Ham,Stoke,D
+24/11/12,Aston Villa,Arsenal,D
+24/11/12,Everton,Norwich,D
+24/11/12,Man United,QPR,H
+24/11/12,Stoke,Fulham,H
+24/11/12,Sunderland,West Brom,A
+24/11/12,Wigan,Reading,H
+25/11/12,Chelsea,Man City,D
+25/11/12,Southampton,Newcastle,H
+25/11/12,Swansea,Liverpool,D
+25/11/12,Tottenham,West Ham,H
+27/11/12,Aston Villa,Reading,H
+27/11/12,Sunderland,QPR,D
+28/11/12,Chelsea,Fulham,D
+28/11/12,Everton,Arsenal,D
+28/11/12,Man United,West Ham,H
+28/11/12,Southampton,Norwich,D
+28/11/12,Stoke,Newcastle,H
+28/11/12,Swansea,West Brom,H
+28/11/12,Tottenham,Liverpool,H
+28/11/12,Wigan,Man City,A
+01/12/12,Arsenal,Swansea,A
+01/12/12,Fulham,Tottenham,A
+01/12/12,Liverpool,Southampton,H
+01/12/12,Man City,Everton,D
+01/12/12,QPR,Aston Villa,D
+01/12/12,Reading,Man United,A
+01/12/12,West Brom,Stoke,A
+01/12/12,West Ham,Chelsea,H
+02/12/12,Norwich,Sunderland,H
+03/12/12,Newcastle,Wigan,H
+08/12/12,Arsenal,West Brom,H
+08/12/12,Aston Villa,Stoke,D
+08/12/12,Southampton,Reading,H
+08/12/12,Sunderland,Chelsea,A
+08/12/12,Swansea,Norwich,A
+08/12/12,Wigan,QPR,D
+09/12/12,Everton,Tottenham,H
+09/12/12,Man City,Man United,A
+09/12/12,West Ham,Liverpool,A
+10/12/12,Fulham,Newcastle,H
+11/12/12,Sunderland,Reading,H
+15/12/12,Liverpool,Aston Villa,A
+15/12/12,Man United,Sunderland,H
+15/12/12,Newcastle,Man City,A
+15/12/12,Norwich,Wigan,H
+15/12/12,QPR,Fulham,H
+15/12/12,Stoke,Everton,D
+16/12/12,Tottenham,Swansea,H
+16/12/12,West Brom,West Ham,D
+17/12/12,Reading,Arsenal,A
+22/12/12,Liverpool,Fulham,H
+22/12/12,Man City,Reading,H
+22/12/12,Newcastle,QPR,H
+22/12/12,Southampton,Sunderland,A
+22/12/12,Tottenham,Stoke,D
+22/12/12,West Brom,Norwich,H
+22/12/12,West Ham,Everton,A
+22/12/12,Wigan,Arsenal,A
+23/12/12,Chelsea,Aston Villa,H
+23/12/12,Swansea,Man United,D
+26/12/12,Aston Villa,Tottenham,A
+26/12/12,Everton,Wigan,H
+26/12/12,Fulham,Southampton,D
+26/12/12,Man United,Newcastle,H
+26/12/12,Norwich,Chelsea,A
+26/12/12,QPR,West Brom,A
+26/12/12,Reading,Swansea,D
+26/12/12,Stoke,Liverpool,H
+26/12/12,Sunderland,Man City,H
+29/12/12,Arsenal,Newcastle,H
+29/12/12,Aston Villa,Wigan,A
+29/12/12,Fulham,Swansea,A
+29/12/12,Man United,West Brom,H
+29/12/12,Norwich,Man City,A
+29/12/12,Reading,West Ham,H
+29/12/12,Stoke,Southampton,D
+29/12/12,Sunderland,Tottenham,A
+30/12/12,Everton,Chelsea,A
+30/12/12,QPR,Liverpool,A
+01/01/13,Man City,Stoke,H
+01/01/13,Southampton,Arsenal,D
+01/01/13,Swansea,Aston Villa,D
+01/01/13,Tottenham,Reading,H
+01/01/13,West Brom,Fulham,A
+01/01/13,West Ham,Norwich,H
+01/01/13,Wigan,Man United,A
+02/01/13,Chelsea,QPR,A
+02/01/13,Liverpool,Sunderland,H
+02/01/13,Newcastle,Everton,A
+12/01/13,Aston Villa,Southampton,A
+12/01/13,Everton,Swansea,D
+12/01/13,Fulham,Wigan,D
+12/01/13,Norwich,Newcastle,D
+12/01/13,QPR,Tottenham,D
+12/01/13,Reading,West Brom,H
+12/01/13,Stoke,Chelsea,A
+12/01/13,Sunderland,West Ham,H
+13/01/13,Arsenal,Man City,A
+13/01/13,Man United,Liverpool,H
+16/01/13,Chelsea,Southampton,D
+19/01/13,Liverpool,Norwich,H
+19/01/13,Man City,Fulham,H
+19/01/13,Newcastle,Reading,A
+19/01/13,Swansea,Stoke,H
+19/01/13,West Brom,Aston Villa,D
+19/01/13,West Ham,QPR,D
+19/01/13,Wigan,Sunderland,A
+20/01/13,Chelsea,Arsenal,H
+20/01/13,Tottenham,Man United,D
+21/01/13,Southampton,Everton,D
+23/01/13,Arsenal,West Ham,H
+29/01/13,Aston Villa,Newcastle,A
+29/01/13,QPR,Man City,D
+29/01/13,Stoke,Wigan,D
+29/01/13,Sunderland,Swansea,D
+30/01/13,Arsenal,Liverpool,D
+30/01/13,Everton,West Brom,H
+30/01/13,Fulham,West Ham,H
+30/01/13,Man United,Southampton,H
+30/01/13,Norwich,Tottenham,D
+30/01/13,Reading,Chelsea,D
+02/02/13,Arsenal,Stoke,H
+02/02/13,Everton,Aston Villa,D
+02/02/13,Fulham,Man United,A
+02/02/13,Newcastle,Chelsea,H
+02/02/13,QPR,Norwich,D
+02/02/13,Reading,Sunderland,H
+02/02/13,West Ham,Swansea,H
+02/02/13,Wigan,Southampton,D
+03/02/13,Man City,Liverpool,D
+03/02/13,West Brom,Tottenham,A
+09/02/13,Chelsea,Wigan,H
+09/02/13,Norwich,Fulham,D
+09/02/13,Southampton,Man City,H
+09/02/13,Stoke,Reading,H
+09/02/13,Sunderland,Arsenal,A
+09/02/13,Swansea,QPR,H
+09/02/13,Tottenham,Newcastle,H
+10/02/13,Aston Villa,West Ham,H
+10/02/13,Man United,Everton,H
+11/02/13,Liverpool,West Brom,A
+17/02/13,Liverpool,Swansea,H
+23/02/13,Arsenal,Aston Villa,H
+23/02/13,Fulham,Stoke,H
+23/02/13,Norwich,Everton,H
+23/02/13,QPR,Man United,A
+23/02/13,Reading,Wigan,A
+23/02/13,West Brom,Sunderland,H
+24/02/13,Man City,Chelsea,H
+24/02/13,Newcastle,Southampton,H
+25/02/13,West Ham,Tottenham,A
+02/03/13,Chelsea,West Brom,H
+02/03/13,Everton,Reading,H
+02/03/13,Man United,Norwich,H
+02/03/13,Southampton,QPR,A
+02/03/13,Stoke,West Ham,A
+02/03/13,Sunderland,Fulham,D
+02/03/13,Swansea,Newcastle,H
+02/03/13,Wigan,Liverpool,A
+03/03/13,Tottenham,Arsenal,H
+04/03/13,Aston Villa,Man City,A
+09/03/13,Norwich,Southampton,D
+09/03/13,QPR,Sunderland,H
+09/03/13,Reading,Aston Villa,A
+09/03/13,West Brom,Swansea,H
+10/03/13,Liverpool,Tottenham,H
+10/03/13,Newcastle,Stoke,H
+16/03/13,Aston Villa,QPR,H
+16/03/13,Everton,Man City,H
+16/03/13,Man United,Reading,H
+16/03/13,Southampton,Liverpool,H
+16/03/13,Stoke,West Brom,D
+16/03/13,Swansea,Arsenal,A
+17/03/13,Chelsea,West Ham,H
+17/03/13,Sunderland,Norwich,D
+17/03/13,Tottenham,Fulham,A
+17/03/13,Wigan,Newcastle,H
+30/03/13,Arsenal,Reading,H
+30/03/13,Everton,Stoke,H
+30/03/13,Man City,Newcastle,H
+30/03/13,Southampton,Chelsea,H
+30/03/13,Sunderland,Man United,A
+30/03/13,Swansea,Tottenham,A
+30/03/13,West Ham,West Brom,H
+30/03/13,Wigan,Norwich,H
+31/03/13,Aston Villa,Liverpool,A
+01/04/13,Fulham,QPR,H
+06/04/13,Norwich,Swansea,D
+06/04/13,Reading,Southampton,A
+06/04/13,Stoke,Aston Villa,A
+06/04/13,West Brom,Arsenal,A
+07/04/13,Chelsea,Sunderland,H
+07/04/13,Liverpool,West Ham,D
+07/04/13,Newcastle,Fulham,H
+07/04/13,QPR,Wigan,D
+07/04/13,Tottenham,Everton,D
+08/04/13,Man United,Man City,A
+13/04/13,Arsenal,Norwich,H
+13/04/13,Aston Villa,Fulham,D
+13/04/13,Everton,QPR,H
+13/04/13,Reading,Liverpool,D
+13/04/13,Southampton,West Ham,D
+14/04/13,Newcastle,Sunderland,A
+14/04/13,Stoke,Man United,A
+16/04/13,Arsenal,Everton,D
+17/04/13,Fulham,Chelsea,A
+17/04/13,Man City,Wigan,H
+17/04/13,West Ham,Man United,D
+20/04/13,Fulham,Arsenal,A
+20/04/13,Norwich,Reading,H
+20/04/13,QPR,Stoke,A
+20/04/13,Sunderland,Everton,H
+20/04/13,Swansea,Southampton,D
+20/04/13,West Brom,Newcastle,D
+20/04/13,West Ham,Wigan,H
+21/04/13,Liverpool,Chelsea,D
+21/04/13,Tottenham,Man City,H
+22/04/13,Man United,Aston Villa,H
+27/04/13,Everton,Fulham,H
+27/04/13,Man City,West Ham,H
+27/04/13,Newcastle,Liverpool,A
+27/04/13,Southampton,West Brom,A
+27/04/13,Stoke,Norwich,H
+27/04/13,Wigan,Tottenham,D
+28/04/13,Arsenal,Man United,D
+28/04/13,Chelsea,Swansea,H
+28/04/13,Reading,QPR,D
+29/04/13,Aston Villa,Sunderland,H
+04/05/13,Fulham,Reading,A
+04/05/13,Norwich,Aston Villa,A
+04/05/13,QPR,Arsenal,A
+04/05/13,Swansea,Man City,D
+04/05/13,Tottenham,Southampton,H
+04/05/13,West Brom,Wigan,A
+04/05/13,West Ham,Newcastle,D
+05/05/13,Liverpool,Everton,D
+05/05/13,Man United,Chelsea,A
+06/05/13,Sunderland,Stoke,D
+07/05/13,Man City,West Brom,H
+07/05/13,Wigan,Swansea,A
+08/05/13,Chelsea,Tottenham,D
+11/05/13,Aston Villa,Chelsea,A
+12/05/13,Everton,West Ham,H
+12/05/13,Fulham,Liverpool,A
+12/05/13,Man United,Swansea,H
+12/05/13,Norwich,West Brom,H
+12/05/13,QPR,Newcastle,A
+12/05/13,Stoke,Tottenham,A
+12/05/13,Sunderland,Southampton,D
+14/05/13,Arsenal,Wigan,H
+14/05/13,Reading,Man City,A
+19/05/13,Chelsea,Everton,H
+19/05/13,Liverpool,QPR,H
+19/05/13,Man City,Norwich,A
+19/05/13,Newcastle,Arsenal,A
+19/05/13,Southampton,Stoke,D
+19/05/13,Swansea,Fulham,A
+19/05/13,Tottenham,Sunderland,H
+19/05/13,West Brom,Man United,D
+19/05/13,West Ham,Reading,H
+19/05/13,Wigan,Aston Villa,D
