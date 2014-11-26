@@ -15,7 +15,7 @@
 		exit;
 	}
 	
-    include 'settings.conf';
+    include 'settings.php';
 
 	// returns just the month and day formatted for mysql query
 	function getDateForMysql($date){
